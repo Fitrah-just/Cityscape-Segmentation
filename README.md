@@ -20,7 +20,7 @@ A self-driving car, or autonomous car, is a vehicle capable of moving without hu
 Segmentation in the context of computer vision and image processing is the process of grouping pixels or objects into more defined parts. This helps identify and understand structures in an image, separate objects from the background, and facilitate further analysis.
 
 # DATASET
-the city scape dataset we using for trained our model, but in this case we used the dataset provided by our bootcamp. And it is also available on their [web]([https://keras.io/](https://www.cityscapes-dataset.com/)https://www.cityscapes-dataset.com/)
+the city scape dataset we using for trained our model, but in this case we used the dataset provided by our bootcamp. And it is also available on their [web](https://www.cityscapes-dataset.com/)
 
 ## following Python libraries installed:
 
