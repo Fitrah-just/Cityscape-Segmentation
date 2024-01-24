@@ -1,16 +1,16 @@
 # SELFDRIVING CAR
 ## MEET OUR TEAM :
 
-Hendra Ronaldi
-Fathurrahman Hernanda Khasan
-Fitrah Ramadhan Reza
-Harrison
-Hilmy Rahmadani
-I Putu Ananta Yogiswara
-Satriaji Najha Darmawan
-Tri Wahyu Prabowo
-Yurixa Sakhinatul Putri
-Nadya Novalina
+- Hendra Ronaldi
+- Fathurrahman Hernanda Khasan
+- Fitrah Ramadhan Reza
+- Harrison
+- Hilmy Rahmadani
+- I Putu Ananta Yogiswara
+- Satriaji Najha Darmawan
+- Tri Wahyu Prabowo
+- Yurixa Sakhinatul Putri
+- Nadya Novalina
 
 ![Semantic-segmentation-of-a-scene-from-the-Cityscapes-dataset-by-Cordts-et-al-2016](https://github.com/Fitrah-just/Cityscape-Segmentation/assets/84637046/3e8dc930-86f9-4d93-960f-1cff47c1514c)
 
